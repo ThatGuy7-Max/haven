@@ -1,0 +1,43 @@
+{
+  "name": "Haven — You're safe here",
+  "short_name": "Haven",
+  "description": "A compassionate AI companion for mental wellness, available 24/7.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1B2F47",
+  "theme_color": "#1B2F47",
+  "lang": "en",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/sDzXqtd4/0BB7B8D1-A256-4C29-ABD6-EDF54E16C825-1-201-a.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.postimg.cc/sDzXqtd4/0BB7B8D1-A256-4C29-ABD6-EDF54E16C825-1-201-a.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://i.postimg.cc/sDzXqtd4/0BB7B8D1-A256-4C29-ABD6-EDF54E16C825-1-201-a.jpg",
+      "sizes": "540x720",
+      "type": "image/jpeg"
+    }
+  ],
+  "categories": ["health", "lifestyle", "medical"],
+  "shortcuts": [
+    {
+      "name": "New Conversation",
+      "short_name": "Chat",
+      "description": "Start a new conversation with Haven",
+      "url": "/",
+      "icons": [{ "src": "https://i.postimg.cc/sDzXqtd4/0BB7B8D1-A256-4C29-ABD6-EDF54E16C825-1-201-a.jpg", "sizes": "96x96" }]
+    }
+  ]
+}
